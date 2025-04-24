@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BuildingWebAPIswithASPNETCore8.props" />
+</Project>
